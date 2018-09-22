@@ -1,3 +1,5 @@
+# Need to print Pyramid:
+
 #!/bin/bash
 read -p "enter the number of line =" num
 makePyramid()
