@@ -1,4 +1,4 @@
-# Need to print Pyramid:
+# Need to print Pyramid starbased
 
 #!/bin/bash
 read -p "enter the number of line =" num
