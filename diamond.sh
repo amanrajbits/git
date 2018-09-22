@@ -1,3 +1,4 @@
+#Print the Diamond Picture using Star : by aman
 #!/bin/bash
 read -p "enter the number of line =" num
 
